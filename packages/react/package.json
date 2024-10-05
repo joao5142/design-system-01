@@ -1,5 +1,5 @@
 {
-  "name": "@design-system-01/react",
+  "name": "@gloomy-ui/react",
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
@@ -15,9 +15,9 @@
   "author": "",
   "description": "",
   "devDependencies": {
-    "@design-system-01/eslint-config": "*",
-    "@design-system-01/tokens": "*",
-    "@design-system-01/ts-config": "*",
+    "@gloomy-ui/eslint-config": "*",
+    "@gloomy-ui/tokens": "*",
+    "@gloomy-ui/ts-config": "*",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { colors } from '@design-system-01/tokens'
+import { colors } from '@gloomy-ui/tokens'
 
 console.log(colors)
 

@@ -1,4 +1,4 @@
-import prettierDefaultConfig from '@design-system-01/prettier-config'
+import prettierDefaultConfig from '@gloomy-ui/prettier-config'
 
 export default {
   ...prettierDefaultConfig,

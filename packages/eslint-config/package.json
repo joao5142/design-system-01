@@ -1,9 +1,10 @@
 {
-  "name": "@design-system-01/eslint-config",
+  "name": "@gloomy-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "type": "module",
   "main": "eslint.config.js",
+  "version": "1.0.0",
   "devDependencies": {
     "@eslint/js": "^9.12.0",
     "@typescript-eslint/eslint-plugin": "^8.8.0",

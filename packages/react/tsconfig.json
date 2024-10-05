@@ -1,4 +1,4 @@
 {
-  "extends": "@design-system-01/ts-config/react.json",
+  "extends": "@gloomy-ui/ts-config/react.json",
   "include": ["src"]
 }

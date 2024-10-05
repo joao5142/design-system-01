@@ -1,5 +1,6 @@
 {
-  "name": "@design-system-01/ts-config",
+  "name": "@gloomy-ui/ts-config",
   "private": true,
+  "version": "1.0.0",
   "license": "MIT"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@design-system-01/tokens",
+  "name": "@gloomy-ui/tokens",
   "license": "MIT",
   "version": "1.0.0",
   "type": "module",
@@ -15,8 +15,8 @@
   "author": "",
   "description": "",
   "devDependencies": {
-    "@design-system-01/eslint-config": "*",
-    "@design-system-01/ts-config": "*",
+    "@gloomy-ui/eslint-config": "*",
+    "@gloomy-ui/ts-config": "*",
     "tsup": "^8.3.0",
     "typescript": "^5.6.2"
   }

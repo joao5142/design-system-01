@@ -1,7 +1,8 @@
 {
-  "name": "@design-system-01/prettier-config",
+  "name": "@gloomy-ui/prettier-config",
   "license": "MIT",
   "private": true,
+  "version": "1.0.0",
   "type": "module",
   "main": "prettierrc.js",
   "devDependencies": {
