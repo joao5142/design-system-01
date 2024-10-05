@@ -1,0 +1,10 @@
+{
+  "name": "@design-system-01/prettier-config",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "main": "prettierrc.js",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}

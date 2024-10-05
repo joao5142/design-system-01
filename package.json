@@ -1,0 +1,10 @@
+{
+  "name": "@design-system-01",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint-config-prettier": "^9.1.0"
+  }
+}

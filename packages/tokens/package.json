@@ -1,0 +1,23 @@
+{
+  "name": "@design-system-01/tokens",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format=esm,cjs --dts",
+    "dev": "tsup src/index.ts --format=esm,cjs --dts --watch",
+    "lint": "npx eslint '**/*.{js,ts,tsx}' --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "@design-system-01/eslint-config": "*",
+    "@design-system-01/ts-config": "*",
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.2"
+  }
+}
